@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 500;
+}
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190916/pngtree-cute-cat-seamless-pattern-with-colorful-nursery-background-for-fashion-textile-image_315645.jpg);
+}
+.contenedor{
+    width: 40%;
+    height: auto;
+    background-color: #855e6e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:0 auto;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.contenedor__title{
+    color: #f7f7f7;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+
+.contenedor__navegacion{
+    margin-bottom: 20px;
+
+}
+.contenedor__navegacion__links{
+    margin: 10px;
+    margin-left: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenedor__navegacion__links li {
+    list-style-type: none;
+    background-color: #b988b8 ;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid #dcbadb;
+}
+.contenedor__navegacion__link{
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+}
