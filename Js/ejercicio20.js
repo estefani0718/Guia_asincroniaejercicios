@@ -7,7 +7,7 @@ function procesarColor(color) {
     return new Promise(resolve => {// retorna la promesa 
         setTimeout(() => {// este tiene un settimeout con un timepo establecido de 1 segundo
             console.log(` color procesado: ${color}`);
-            resolve();// este resolve indica que termino y pasa al mensaje 
+            resolve();// este resolve indica que termino 
         }, 1000);
     });
 }
