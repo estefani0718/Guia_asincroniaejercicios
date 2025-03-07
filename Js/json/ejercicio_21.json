@@ -1,0 +1,23 @@
+[
+    {   "fruta":"manzana",
+        "color":"roja"
+    },
+    {
+        "fruta":"pera",
+        "color":"verde"
+    },
+    {
+        "fruta":"duranzno",
+        "color":"amarillo"
+    },
+    {
+        "fruta":"sandia",
+        "color":"verde y rojo"
+    },
+    {
+         "frutas":"naranja ",
+         "color":"amarilla"
+    }
+   
+
+]
