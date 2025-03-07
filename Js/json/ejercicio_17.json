@@ -1,0 +1,18 @@
+[ {
+        "nombre":"carlos",
+        "edad":"16",
+        "trabajo":"cimi"
+    },
+    {
+        "nombre":"jose",
+        "edad":"18",
+        "trabajo":"empresa"
+
+    },
+    {
+        "nombre":"stiven",
+        "edad":"20",
+        "trabajo":"informal"
+
+    }
+]
